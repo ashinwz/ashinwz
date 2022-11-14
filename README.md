@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashinwz
+- 👋 Hi, I’m @John Wang
 4+ years of industrial work experience in Pharma and Life Science companies. A full-stack developer, DevOps and cheminformatics data
 scientist with more than eight years of coding and digitalization experience
 - 👀 I’m interested in AutoML, TIBCO Spotfire, Dash, Streamlit, MSSQL, PostgreSQL, Docker and GitOps
