@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @John Wang
 6+ years of industrial work experience in Pharma and Life Science companies. A full-stack developer, DevOps and cheminformatics data
 scientist with more than eight years of coding and digitalization experience
-- 👀 I’m interested in AutoML, TIBCO Spotfire, Dash, Streamlit, MSSQL, PostgreSQL, Docker and GitOps
+- 👀 I’m interested in full-stack(Nextjs) development, AutoML, TIBCO Spotfire, Dash, Streamlit, MSSQL, PostgreSQL, Docker and GitOps
 - 📫 How to reach me ashinwz@yeah.net / john.wang.jw6@gmail.com 
 
 
